@@ -20,7 +20,13 @@
       "Bash(git checkout:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(gh pr:*)",
+      "Bash(git pull:*)",
+      "Bash(git stash:*)",
+      "mcp__mcp-registry__search_mcp_registry",
+      "Bash(where gitnexus:*)",
+      "Bash(npx gitnexus:*)"
     ]
   }
 }
