@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(cp -r /c/Users/victor.bittencourt/Desktop/qa-poc-temp/* /c/Users/victor.bittencourt/Desktop/qa-poc/)",
+      "Bash(cp /c/Users/victor.bittencourt/Desktop/qa-poc-temp/.gitignore /c/Users/victor.bittencourt/Desktop/qa-poc/)",
+      "Bash(rm -rf /c/Users/victor.bittencourt/Desktop/qa-poc-temp)",
+      "Bash(npm install:*)",
+      "Bash(npx playwright:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx vite:*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git init:*)",
+      "Bash(gh auth:*)",
+      "Bash(where gh:*)",
+      "Bash(winget install:*)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" auth status)",
+      "Bash(export PATH=\"/c/Program Files/GitHub CLI:$PATH\")",
+      "Bash(gh repo:*)",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
